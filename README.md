@@ -22,7 +22,7 @@ If you're not using Node or npm in your project or you want to try Cypress out q
 
 ## Beginner Level 2
 
-Once you have a solution, please create a GitHub repo and send it to shanmuhammad137@gmail.com for review.
+Once you have a solution, please create a branch and upload in this repo.
 
 ## We are looking for
 
